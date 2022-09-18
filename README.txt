@@ -15,7 +15,7 @@ Instruction :
 7. Run unit test with comman "node ace test" (OPTIONAL)
 8. Run server with command "node ace serve --watch" 
 9. You can login as (username: test, password: test) on /login to get JWT Token for accessing other REST API
-
+10. You can import api_collection_convert_alamat.json to postman to test rest api
 
 REST API :
 
